@@ -1,2 +1,2 @@
 print("Program Started")
-intput("Push Enter To Close")
+input("Push Enter To Close")
